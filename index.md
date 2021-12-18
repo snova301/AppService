@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# ようこそ
 
-You can use the [editor on GitHub](https://github.com/snova301/AppService/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+このページは`Esunowba`のモバイルアプリに関するプライバシーポリシーや
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## アプリ一覧
 
-### Markdown
+<details>
+<summary>アプリの一覧はこちら</summary>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 電気設備計算アシスタント
 
-```markdown
-Syntax highlighted code block
+作業現場で各値の確認をするときや、すぐに電圧降下などを計算するための計算機ツールです。
 
-# Header 1
-## Header 2
-### Header 3
+Android版
+https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator
 
-- Bulleted
-- List
+</details>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## プライバシーポリシー
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<details>
+<summary>プライバシーポリシー全文</summary>
 
-### Jekyll Themes
+Electric Facility Calculator(以下、本アプリ)のプライバシーポリシーについて
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snova301/AppService/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+広告について
 
-### Support or Contact
+本アプリでは、広告配信ツールとしてAdMob(Google Inc.)を使用しており、AdMobがご利用者の情報を自動取得する場合があります。取得する情報、利用目的、第三者への提供等につきましては、以下の広告配信事業者のアプリケーション・プライバシーポリシーのリンクよりご確認ください。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Google 広告に関するポリシー https://policies.google.com/technologies/ads?hl=ja
+
+利用状況解析ついて 本アプリでは、今後の開発の参考とするため、アプリの利用状況データを収集するツールとしてFirebase(Google Inc.)を使用しており、Firebaseがご利用者の情報を自動取得する場合があります。取得する情報、利用目的、第三者への提供等につきましては、以下のGoogleプライバシーポリシーのリンクよりご確認ください。
+
+Google プライバシーポリシー https://policies.google.com/privacy?hl=ja
+
+</details>
+
+
+また、[こちら](privacypolicy.md)にもプライバシーポリシーを記述しております。
+
+## 免責事項
+
+本アプリで計算された結果は実測値を保証するものではありません。
+また、本アプリの利用によって生じた損害は、製作者または配信者はその責任を負いません。
+
+
+## アプリの権限について
+
+本アプリの権限は全て広告のために使用されます。
+それ以外の用途では情報の収集や共有をしておりません。
+
+
+
+## 不具合や改善要望について
+
+アプリの評価ページよりご報告をお願いいたします。
