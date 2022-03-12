@@ -3,6 +3,7 @@
 ## アプリ概要
 
 作業現場で各値の確認をするときや、すぐに電圧降下などを計算するための計算機ツールです。
+
 利用は利用上の注意とプライバシーポリシーに同意したものとします。
 
 
@@ -41,5 +42,6 @@
 
 
 ## アプリの配信先
-- Android版 : https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator
-- PC : https://ewacdj-3936b.web.app/
+
+- [Android版](https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator)
+- [PC](https://ewacdj-3936b.web.app/)

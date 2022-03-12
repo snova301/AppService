@@ -3,16 +3,18 @@
 このページは`Esunowba`のモバイルアプリに関するプライバシーポリシーやマニュアルを記載しています。
 
 
-# アプリ一覧
+## アプリ一覧
 
 - 電気設備計算アシスタント(Android, PC)
 
 
-# 電気設備計算アシスタント
+## 電気設備計算アシスタント
 
 作業現場で各値の確認をするときや、すぐに電圧降下などを計算するための計算機ツールです。
+
 アプリの使用上の注意事項は[こちら](elec_calculator/home.md)
 
 アプリの配信先
-- Android : https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator
-- PC : https://ewacdj-3936b.web.app/
+
+- [Android](https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator)
+- [PC](https://ewacdj-3936b.web.app/)
