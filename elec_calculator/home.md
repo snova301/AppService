@@ -45,3 +45,6 @@
 
 - [Android版](https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator)
 - [PC](https://ewacdj-3936b.web.app/)
+
+
+[戻る](../index.md)

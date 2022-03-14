@@ -37,3 +37,6 @@ Google プライバシーポリシー https://policies.google.com/privacy?hl=ja
 
 ## 最終改定日
 2022/3/11
+
+
+[戻る](./home.md)
