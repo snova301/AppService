@@ -44,9 +44,13 @@ Esunowba(以下、製作者)は電気設備計算アシスタント(以下、本
 改定後は本ページにて掲載します。
 
 
+## お問い合わせ
+
+お問い合わせについては、[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfFgQZrUVegpgJFivZyWYjZsMdrVXWlx6hfjpm6ihdDkKKuGA/viewform?usp=sf_link)をご利用ください。
+
 
 ## 最終改定日
-2022/5/9
+2022/5/19
 
 
-[アプリトップページへ](./home.md)
+[◁アプリトップページへ](./home.md)

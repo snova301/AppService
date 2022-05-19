@@ -19,9 +19,10 @@
 
 作業現場で各値の確認をするときや、すぐに電圧降下などを計算するための計算機ツールです。
 
+
 ### アプリの詳細
 
-[こちら](elec_calculator/home.md)から。
+[電気設備計算アシスタントのトップページ](elec_calculator/home.md)から。
 
 
 
@@ -50,9 +51,14 @@
 
 ### アプリの配信先
 
-製作中
+Android ... 製作中
 
+[web(テスト版)](https://scco-2df5d.web.app/#/)
 
 ### Githubページ
 
 [こちら](https://github.com/snova301/score_counter)から。
+
+
+## 最終更新日
+2022/5/19

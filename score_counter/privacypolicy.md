@@ -43,10 +43,12 @@ Esunowba(以下、製作者)は採点計算アプリSCCO(以下、本アプリ)�
 本アプリのプライバシーポリシーは予告なく改定する場合があります。
 改定後は本ページにて掲載します。
 
+## お問い合わせ
 
+お問い合わせについては、[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfaaTR8VcVYofCC63mS34CWgyaSusitxugxTM3tugsdA6yi6Q/viewform?usp=sf_link)をご利用ください。
 
 ## 最終改定日
-2022/5/9
+2022/5/19
 
 
-[アプリトップページへ](./home.md)
+[◁アプリトップページへ](./home.md)
