@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/dart-v2.16.2-blue?style=flat&logo=dart) ![](https://img.shields.io/badge/flutter-v2.10.5-blue?style=flat&logo=flutter) ![](https://img.shields.io/badge/-firebase-orange?style=flat&logo=firebase)
 
 
-作業現場で各値の確認をするときや、すぐに電圧降下などを計算するための計算機ツールです。
+電気設備設計業務や作業現場でケーブルサイズ、電圧降下、電力、電線管サイズを計算したいときに、簡単に計算するためのツールです。
 
 
 ### アプリの詳細
@@ -47,7 +47,7 @@
 試験の採点を行うときに点数の計算を自動で行ってくれます。学校の先生はもちろんのこと、生徒自身の自己採点や資格勉強での過去問の採点にも使用できます。
 
 ### アプリの詳細
-[こちら](score_counter/home.md)から。
+[採点計算アプリSCCOトップページ](score_counter/home.md)から。
 
 ### アプリの配信先
 
@@ -58,6 +58,12 @@ Android ... 製作中
 ### Githubページ
 
 [こちら](https://github.com/snova301/score_counter)から。
+
+
+## お問い合わせ
+
+`Esunowba`のサービスについてのお問い合わせは[お問い合わせフォーム](https://forms.gle/6G7RaQP7uG7ufKSP8)よりお願いします。
+
 
 
 ## 最終更新日

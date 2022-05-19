@@ -121,7 +121,7 @@ Scvt = ((Rcvt / 2)^2 * pi) * 3
 ## 参考
 
 - [JCMA, 技術資料](https://www.jcma2.jp/gijutsu/shiryou/index.html)
-- [フジクラ・ダイヤケーブル技術資料](https://www.fujikura-dia.co.jp/tech/)
+- [株式会社フジクラ・ダイヤケーブル, 技術資料](https://www.fujikura-dia.co.jp/tech/)
 - [公益社団法人 日本電気技術者協会](https://jeea.or.jp/course/)
 - [古河電気工業株式会社](https://www.furukawa.co.jp/)
 - [パナソニック株式会社法人向け](https://www2.panasonic.biz/jp/)
