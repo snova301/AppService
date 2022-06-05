@@ -3,5 +3,7 @@
   dropdown:
     - name: 電気設備計算アシスタント
       link: /elec_calculator/home.html
+    - name: 採点計算アプリSCCO
+      link: /score_counter/home.html
 - name: Sponsor
-  link: /index.html
+  link: https://www.buymeacoffee.com/snova301
