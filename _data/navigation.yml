@@ -2,6 +2,6 @@
   link: /#
   dropdown:
     - name: 電気設備計算アシスタント
-      link: /elec_calculator/home.html/
+      link: /elec_calculator/home.html
 - name: Sponsor
-  link: /iindex.html/
+  link: /index.html

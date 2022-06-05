@@ -6,4 +6,5 @@ title: Esnowbaアプリ情報
 subtitle: Esnowbaのアプリ情報
 description: Esnowbaのモバイルアプリに関する情報をまとめています。
 
-show_sidebar: true
+show_sidebar: false
+menubar: menubar
