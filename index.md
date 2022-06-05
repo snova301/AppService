@@ -33,10 +33,6 @@
 [Web](https://ewacdj-3936b.web.app/)
 
 
-### Githubページ
-
-[こちら](https://github.com/snova301/elec_calculator)から。
-
 
 
 ## 採点計算アプリSCCO(Android, web)
@@ -55,9 +51,7 @@ Android ... 製作中
 
 [web(テスト版)](https://scco-2df5d.web.app/#/)
 
-### Githubページ
 
-[こちら](https://github.com/snova301/score_counter)から。
 
 
 ## お問い合わせ
@@ -65,6 +59,13 @@ Android ... 製作中
 `Esunowba`のサービスについてのお問い合わせは[お問い合わせフォーム](https://forms.gle/6G7RaQP7uG7ufKSP8)よりお願いします。
 
 
+## Buy me a coffee
+
+![https://www.buymeacoffee.com/snova301](./bmc-button.png)
+
+よろしくお願いします！
+
+
 
 ## 最終更新日
-2022/5/19
+2022/6/5
