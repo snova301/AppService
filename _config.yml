@@ -3,4 +3,7 @@ plugins:
   - jekyll-remote-theme
 
 title: Esnowbaアプリ情報
+subtitle: Esnowbaのアプリ情報
 description: Esnowbaのモバイルアプリに関する情報をまとめています。
+
+show_sidebar: true
