@@ -1,17 +1,15 @@
-- label: Menu Label
+- label: Example Menu
   items:
-    - name: Example item
-      link: /example-item/
-- label: Second Menu Label
-  items:
-    - name: Parent Item
-      link: /parent-item/
+    - name: Home
+      link: /
+    - name: Pages
+      link: #
       items:
-        - name: Sublink
-          link: /sublink/
-        - name: Sublink 2
-          link: /sublink2/
-- label: Third Menu Label
-  items:
-    - name: Another example item
-      link: /another-example-item/
+        - name: Page With Sidebar
+          link: /page-1/
+        - name: Page Without Sidebar
+          link: /page-2/
+        - name: Page With Menubar
+          link: /page-3/
+    - name: Blog
+      link: /blog/
