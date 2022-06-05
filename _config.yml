@@ -1,5 +1,6 @@
-# theme: jekyll-theme-cayman
-# remote_theme: niklasbuschmann/contrast@v2.11
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-remote-theme
+
+title: Esnowbaアプリ情報
+description: Esnowbaのモバイルアプリに関する情報をまとめています。

@@ -1,0 +1,7 @@
+- name: Top
+  link: /index/
+- name: App Pages
+  link: /#
+  dropdown:
+    - name: 電気設備計算アシスタント
+      link: /elec_calculator/home/
