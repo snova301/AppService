@@ -60,6 +60,7 @@ Android ... 製作中
 
 <a href='https://www.buymeacoffee.com/snova301'><img alt='Buy me a coffee' src='./bmc-button.png' width='150'/></a>
 
+製作者については[こちら](https://snova301.github.io/Portfolio/)。
 
 ## 最終更新日
 2022/6/14
