@@ -21,7 +21,7 @@
 
 アプリの詳細は[電気設備計算アシスタントのトップページ](elec_calculator/home.md)から。
 
-アプリの配信先は
+アプリの配信先
 
 <a href='https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/ja/badges/static/images/badges/ja_badge_web_generic.png' width='150'/></a>
 
@@ -39,9 +39,9 @@
 
 アプリの詳細は[採点計算アプリSCCOトップページ](score_counter/home.md)から。
 
-アプリの配信先は
+アプリの配信先
 
-Android ... 製作中
+<a href='https://play.google.com/store/apps/details?id=com.github.snova301.score_counter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/ja/badges/static/images/badges/en_badge_web_generic.png' width=150/></a>
 
 [web(テスト版)](https://scco-2df5d.web.app/#/)
 
@@ -64,3 +64,5 @@ Android ... 製作中
 
 ## 最終更新日
 2022/6/14
+
+Google Play and the Google Play logo are trademarks of Google LLC.
