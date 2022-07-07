@@ -8,7 +8,7 @@
 |アプリ名|Android|iOS|web|
 |:--|:--|:--|:--|
 |[電気設備計算アシスタント](elec_calculator/home.md)|<a href='https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/ja/badges/static/images/badges/ja_badge_web_generic.png' width='150'/></a>|製作中|[Web(テスト版)](https://ewacdj-3936b.web.app/)|
-|[採点計算アプリSCCO](score_counter/home.md)|<a href='https://play.google.com/store/apps/details?id=com.github.snova301.score_counter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/ja/badges/static/images/badges/en_badge_web_generic.png' width=150/></a>|製作中|[web(テスト版)](https://scco-2df5d.web.app/#/)|
+|[採点計算アプリSCCO](score_counter/home.md)|<a href='https://play.google.com/store/apps/details?id=com.github.snova301.score_counter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/ja/badges/static/images/badges/ja_badge_web_generic.png' width=150/></a>|製作中|[web(テスト版)](https://scco-2df5d.web.app/#/)|
 
 ---
 
@@ -31,4 +31,4 @@
 2022/7/1
 
 
-Google Play and the Google Play logo are trademarks of Google LLC.
+<font size="2">Google Play and the Google Play logo are trademarks of Google LLC.</font>
