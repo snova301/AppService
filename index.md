@@ -1,4 +1,4 @@
-# 🐤Esnowbaアプリ情報ページようこそ！
+# 🐤Esunowbaアプリ情報ページようこそ！
 
 このサイトは`Esunowba`のモバイルアプリに関する[利用規約](./common/terms.md)、[プライバシーポリシー](./common/privacypolicy.md)、マニュアルを記載しています。
 
