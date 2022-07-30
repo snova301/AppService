@@ -30,7 +30,7 @@
 
 
 ## 最終更新日
-2022/7/14
+2022/7/30
 
 
 <font size="2">Google Play および Google Play ロゴは、Google LLC の商標です。</font>
