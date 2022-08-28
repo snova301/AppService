@@ -6,7 +6,7 @@
 
 本アプリの利用には[利用規約](../common/terms.md)と[プライバシーポリシー](../common/privacypolicy.md)に同意したものとします。
 
-<img src='フィーチャーグラフィック.png' width='400'>
+<img src='008.png' width='400'>
 
 ## アプリの機能
 
