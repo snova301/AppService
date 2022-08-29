@@ -3,6 +3,8 @@
   dropdown:
     - name: 電気設備計算アシスタント
       link: /elec_calculator/home.html
+    - name: 消防設備計算アシスタント
+      link: /firefight_equip/home.html
     - name: 採点計算アプリSCCO
       link: /score_counter/home.html
 - name: お問い合わせ
